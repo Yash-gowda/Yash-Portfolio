@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Yash-Portfolio/static/css/main.6fc8c21a.css",
-    "main.js": "/Yash-Portfolio/static/js/main.ff74db73.js",
+    "main.js": "/Yash-Portfolio/static/js/main.b86586b1.js",
     "static/js/453.907a0c05.chunk.js": "/Yash-Portfolio/static/js/453.907a0c05.chunk.js",
     "static/media/ReKnowledgeInc_logo.png": "/Yash-Portfolio/static/media/ReKnowledgeInc_logo.2ceb2650b68326c55e2b.png",
     "static/media/profile-pic.png": "/Yash-Portfolio/static/media/profile-pic.c7fcca492d81797ffa03.png",
@@ -24,11 +24,11 @@
     "static/media/circleCI.png": "/Yash-Portfolio/static/media/circleCI.c80a7a9bdbb51ab9048e.png",
     "index.html": "/Yash-Portfolio/index.html",
     "main.6fc8c21a.css.map": "/Yash-Portfolio/static/css/main.6fc8c21a.css.map",
-    "main.ff74db73.js.map": "/Yash-Portfolio/static/js/main.ff74db73.js.map",
+    "main.b86586b1.js.map": "/Yash-Portfolio/static/js/main.b86586b1.js.map",
     "453.907a0c05.chunk.js.map": "/Yash-Portfolio/static/js/453.907a0c05.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6fc8c21a.css",
-    "static/js/main.ff74db73.js"
+    "static/js/main.b86586b1.js"
   ]
 }
