@@ -19,33 +19,21 @@ export default function Expereince() {
                             mb={4}
                             
                         />
-                        <Text>March, 2024 - Present</Text>
+                        <Text>June, 2023 - Present</Text>
                         <Text>Freelancer</Text>
                     </Flex>
                 </Flex>
                 <Divider orientation='vertical' h='320px' m={4} />
                 <Flex className="exp_container" flexDirection={'column'} flex="3">
                     <Flex className="role" mb={2}>
-                        <Heading >Front-End Developer </Heading>
+                        <Heading >Full Stack Developer </Heading>
                     </Flex>
                     <Flex className="org_name" mb={2}>
                         ReKnowledge.inc, 
                         Kitchener, Ontario
                     </Flex>
                     <Flex>
-                        <Text className="defaultFont">At ReKnowledge Inc., I played a key role as a Front-End Developer, specializing 
-                            in designing and implementing dynamic web applications using React.js. 
-                            I developed responsive and mobile-friendly user interfaces, optimizing performance with techniques 
-                            like lazy loading and code splitting. My responsibilities included creating and integrating APIs, 
-                            collaborating with Back-End Developers to ensure seamless functionality, and enhancing data fetching 
-                            using GraphQL. I managed CI/CD and testing pipelines on Azure DevOps and utilized DevOps tools such as 
-                            CircleCI, Confluence, and GitHub to streamline development workflows. My role also involved diagnosing 
-                            and resolving quality issues, maintaining test suites and addressing security vulnerabilities in web 
-                            applications using tools like Snyk. I conducted code reviews, provided hotfixes for production issues 
-                            and mentored junior developers to ensure code quality and adherence to best practices. 
-                            Collaborating within Agile teams, I focused on translating design concepts into functional interfaces, 
-                            conducting regular security assessments, and staying updated with the latest web development trends to 
-                            continuously improve application capabilities.</Text>
+                        <Text className="defaultFont">At ReKnowledge Inc., I drive impactful results as a Full Stack Developer by optimizing applications with Node.js and React, improving user satisfaction by 15%. I reduced API response times by 20% with scalable RESTful APIs and enhanced backend efficiency using Redis caching. My work includes managing PostgreSQL databases, integrating third-party APIs, and streamlining deployment by 30% through CI/CD pipelines. With a focus on security and code quality, I ensured 100% compliance with standards and fostered collaboration within cross-functional teams using Confluence and GitHub.</Text>
                     </Flex>
                 </Flex>
             </Flex>
@@ -75,19 +63,14 @@ export default function Expereince() {
                     </Flex>
                     <Flex className="exp_content">
                         <Text className="defaultFont">
-                        At Atos Syntel, I have worked as a Java Developer with comprehensive experience in designing, developing and maintaining 
-                        robust applications using Java, Spring, Spring Boot, Servlets, JSP, and IBM WebSphere9. I have a strong background in Front-End 
-                        technologies such as HTML, CSS, and JavaScript, as well as in database management with DB2 and Oracle, where I excel in writing 
-                        efficient SQL queries and managing stored procedures. I have implemented security features such as OTP, RSA, and two-step 
-                        authentication to enhance application security and compliance.
-                        I have successfully worked on projects for Manulife Financial, involving complex fund management processes and 
-                        online withdrawal systems, utilizing technologies like Java, Spring Boot, React JS, Docker, and Kubernetes. 
-                        My role included writing test cases using JUnit, setting up CI/CD pipelines, and using version control tools 
-                        like SVN and Git. I have hands-on experience with build tools such as Ant and JRebel and performed thorough code 
-                        reviews and debugging to ensure high-quality deliverables. I have worked in both Waterfall and Agile environments,
-                        efficiently managing all project stages from development to production, UAT, and release flow. 
-                        My expertise includes conducting performance testing, regression, and QA, along with mentoring junior developers 
-                        and ensuring adherence to best practices and industry standards.</Text>
+                        At Atos Syntel, as a Software Developer I have developed real-time monitoring systems to deliver actionable insights for critical applications, leveraging tools like Kafka, Prometheus, and Grafana for efficient data streaming and performance optimization. I designed scalable APIs using Spring Boot and Node.js, enabling seamless data integration, and built intuitive React dashboards for decision-making across industries. By implementing predictive analytics, optimizing databases like TimescaleDB and MongoDB, and resolving system bottlenecks, I enhanced operational efficiency and reliability. Additionally, I delivered scalable solutions with advanced security measures and process automation, ensuring cost-effective performance and improved user satisfaction.
+
+
+
+
+
+
+</Text>
                     </Flex>
                 </Flex>
             </Flex>
