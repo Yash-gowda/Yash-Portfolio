@@ -20,7 +20,7 @@ export default function Expereince() {
                             
                         />
                         <Text>June, 2023 - Present</Text>
-                        <Text>Freelancer</Text>
+                        <Text> Contract Full Time</Text>
                     </Flex>
                 </Flex>
                 <Divider orientation='vertical' h='320px' m={4} />
@@ -33,7 +33,7 @@ export default function Expereince() {
                         Kitchener, Ontario
                     </Flex>
                     <Flex>
-                        <Text className="defaultFont">At ReKnowledge Inc., I drive impactful results as a Full Stack Developer by optimizing applications with Node.js and React, improving user satisfaction by 15%. I reduced API response times by 20% with scalable RESTful APIs and enhanced backend efficiency using Redis caching. My work includes managing PostgreSQL databases, integrating third-party APIs, and streamlining deployment by 30% through CI/CD pipelines. With a focus on security and code quality, I ensured 100% compliance with standards and fostered collaboration within cross-functional teams using Confluence and GitHub.</Text>
+                        <Text className="defaultFont">At ReKnowledge Inc., I drive impactful results as a Full Stack Developer by optimizing applications with Java, Node.js Angular and React, improving user satisfaction by 15%. I reduced API response times by 20% with scalable RESTful APIs and enhanced backend efficiency using Redis caching. My work includes managing PostgreSQL databases, integrating third-party APIs, and streamlining deployment by 30% through CI/CD pipelines. With a focus on security and code quality, I ensured 100% compliance with standards and fostered collaboration within cross-functional teams using Confluence and GitHub.</Text>
                     </Flex>
                 </Flex>
             </Flex>
@@ -63,7 +63,7 @@ export default function Expereince() {
                     </Flex>
                     <Flex className="exp_content">
                         <Text className="defaultFont">
-                        At Atos Syntel, as a Software Developer I have developed real-time monitoring systems to deliver actionable insights for critical applications, leveraging tools like Kafka, Prometheus, and Grafana for efficient data streaming and performance optimization. I designed scalable APIs using Spring Boot and Node.js, enabling seamless data integration, and built intuitive React dashboards for decision-making across industries. By implementing predictive analytics, optimizing databases like TimescaleDB and MongoDB, and resolving system bottlenecks, I enhanced operational efficiency and reliability. Additionally, I delivered scalable solutions with advanced security measures and process automation, ensuring cost-effective performance and improved user satisfaction.
+                        At Atos Syntel, as a Software Developer I have developed real-time monitoring systems to deliver actionable insights for critical applications, leveraging tools like Kafka, Prometheus, and Grafana for efficient data streaming and performance optimization. I designed scalable APIs using Java, Spring Boot and Node.js, enabling seamless data integration, and built intuitive Angular and React dashboards for decision-making across industries. By implementing predictive analytics, optimizing databases like TimescaleDB and MongoDB, and resolving system bottlenecks, I enhanced operational efficiency and reliability. Additionally, I delivered scalable solutions with advanced security measures and process automation, ensuring cost-effective performance and improved user satisfaction.
 
 
 

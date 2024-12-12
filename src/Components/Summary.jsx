@@ -9,7 +9,7 @@ export default function Summary() {
             <Heading p={0} mb={4} className="name-card">Yashwanth Gowda B C</Heading>
 
             <Text fontSize='lg' className="defaultFont">
-            I am a passionate Full Stack Developer with a proven track record of building robust, scalable, and efficient solutions for diverse industries. With expertise in modern technologies like Node.js, React, Spring Boot, and Kafka, I specialize in creating real-time systems, intuitive dashboards, and scalable APIs that drive business value.                <br></br>
+            I am a passionate Full Stack Developer with a proven track record of building robust, scalable, and efficient solutions for diverse industries. With expertise in modern technologies like Java, Node.js, React, Spring Boot and Kafka, I specialize in creating real-time systems, intuitive dashboards, and scalable APIs that drive business value.                <br></br>
             My work focuses on optimizing application performance, enhancing data processing, and implementing secure, reliable solutions tailored to meet industry needs. I thrive on solving complex challenges, from developing predictive analytics and streamlining workflows to ensuring seamless data integration and high system uptime.  <br></br>
             With a commitment to delivering excellence, I prioritize user satisfaction, operational efficiency, and team collaboration. Whether it's optimizing databases, implementing CI/CD pipelines, or enhancing application security, I bring a strategic, results-driven approach to every project I undertake. 
             <br></br>Let’s create impactful, innovative solutions together!         
